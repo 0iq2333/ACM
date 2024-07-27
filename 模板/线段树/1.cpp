@@ -1,10 +1,3 @@
-/*
- * @Author: 0iq_love_zy
- * @LastEditTime: 2021-03-12 20:01:54
- * @CSDN blog: https://blog.csdn.net/acm_durante
- * @E-mail: 1055323152@qq.com
- * @ProbTitle: 
- */
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
