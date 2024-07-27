@@ -1,10 +1,3 @@
-/*
- * @Author: 0iq_love_zy
- * @LastEditTime: 2021-01-27 11:18:02
- * @CSDN blog: https://blog.csdn.net/acm_durante
- * @E-mail: 1055323152@qq.com
- * @ProbTitle: 
- */
 struct Trie{
     int next[500010][26],fail[500010],end[500010];
     int root,L;
